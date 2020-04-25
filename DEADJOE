@@ -1,0 +1,20 @@
+
+*** These modified files were found in JOE when it aborted on Sat Apr 25 11:51:06 2020
+*** JOE was aborted by UNIX signal 1
+
+*** 檔案「(未命名)」
+config.toml
+config.toml
+config.toml
+config.toml
+config.toml
+style.css
+babel.config.js
+vue.config.js
+babel.config.js
+vue.config.js
+index.html
+
+*** 檔案「* Startup Log *」
+處理「/usr/local/Cellar/joe/4.6/etc/joe/joerc.zh_TW」…處理「/usr/local/Cellar/joe/4.6/etc/joe/ftyperc」…Finished processing /usr/local/Cellar/joe/4.6/etc/joe/ftyperc
+Finished processing /usr/local/Cellar/joe/4.6/etc/joe/joerc.zh_TW
